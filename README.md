@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Alex Washington. 👋🏽
+
+💼 I'm a former _Math Teacher_ transitioning to become a _Data Analyst_.
+
+🎓 Studied **Information Technology** at Purdue Global and **Mathematics** at Southern Illinois University Edwardsville.
+
+💻 I'm using this platform to showcase my skills on the following tools: **SQL**, **R**, **ERDPlus**, and **Python**.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alexandrawashington5280)
 
 <!--
 **alexvwashington/alexvwashington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
